@@ -20,7 +20,7 @@ print("    ░                      ")
 print("      Made By @Oxycrime ")
 
 
-number = input(Enter your phone number: *)
+number = input("Enter your number: ")
 
 phone = phonenumbers.parse (number)
 
