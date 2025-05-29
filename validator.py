@@ -4,7 +4,7 @@ from numpy import number
 import phonenumbers
 
 
-from phonenumbers import tinezone, geocoder, carrier
+from phonenumbers import timezone, geocoder, carrier
 
 print()
 print(" ██▒   █▓ ██▓ ██▓    ▓█████  ")
