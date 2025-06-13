@@ -1,8 +1,5 @@
 phonelookup is an osint tool to lookup phone number details.
 
-you'll need an api token fron api layer.
-
-
 git clone 
 https://github.com/0xvileness/phonelookup.git
 
